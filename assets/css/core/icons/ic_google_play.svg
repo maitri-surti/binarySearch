@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="513px" viewBox="0 0 480 513" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_google_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_google_play" fill="#FFFFFF">
+            <path d="M95.758,8.189 C75.726,-2.883 52.206,-2.627 32.302,8.349 L265.582,223.549 L343.95,145.181 L95.758,8.189 Z" id="Path"></path>
+            <path d="M8.974,30.365 C3.278,39.677 0.014,50.333 0.014,61.629 L0.014,450.301 C0.014,461.245 2.99,471.677 8.366,480.797 L242.958,246.205 L8.974,30.365 Z" id="Path"></path>
+            <path d="M447.854,202.525 L373.102,161.277 L289.102,245.245 L392.046,340.189 L447.886,309.373 C467.982,298.237 480.014,278.269 480.014,255.933 C479.982,233.597 467.982,213.629 447.854,202.525 Z" id="Path"></path>
+            <path d="M266.478,267.901 L31.246,503.133 C41.454,508.957 52.654,512.029 63.918,512.029 C74.798,512.029 85.742,509.277 95.758,503.741 L362.542,356.509 L266.478,267.901 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

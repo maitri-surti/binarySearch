@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="938px" height="950px" viewBox="0 0 938 950" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_download</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_download" fill="#FFFFFF">
+            <path d="M904.289,810.471 L33.712,810.471 C15.52,810.471 0.773,825.217 0.773,843.409 L0.773,917.061 C0.773,935.254 15.521,950 33.712,950 L904.289,950 C922.48,950 937.227,935.254 937.227,917.061 L937.227,843.409 C937.227,825.217 922.48,810.471 904.289,810.471 Z" id="Path"></path>
+            <path d="M663.023,0 L272.7,0 C250.05,0 231.69,18.361 231.69,41.009 L231.69,433.048 L152.043,433.048 C135.142,433.048 127.043,453.803 139.476,465.249 L437.855,739.977 C455.457,756.184 482.544,756.184 500.146,739.977 L798.525,465.249 C810.959,453.802 802.859,433.048 785.959,433.048 L706.311,433.048 L706.311,43.287 C706.311,19.38 686.93,0 663.023,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

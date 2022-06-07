@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Template: Generate Module",
+      "type": "shell",
+      "command": "cp",
+      "presentation": {
+        "reveal": "never",
+        "panel": "shared"
+      },
+      "args": [
+        "-r",
+        "${workspaceFolder}/.template/module",
+        "${workspaceFolder}/src/${input:templateModuleName}"
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "templateModuleName",
+      "description": "What is the name of the component do you want to create?"
+    }
+  ]
+}
